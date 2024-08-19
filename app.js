@@ -1,0 +1,1 @@
+document.getElementById("theHead").innerHTML="BEAUTIFUL WORLD"
